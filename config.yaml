@@ -1,15 +1,15 @@
 # PBS configuration
-queue: normalbw
-project: v45
-walltime: 40:00:00
+queue: expressbw
+project: e14
+walltime: 03:00:00
 jobname: ryf8_kds50
 ncpus: 252
 mem: 500GB
 
-shortpath: /short/v45
+shortpath: /short/e14
 
-runspersub: 10
-restart_freq: 5
+runspersub: 1
+restart_freq: 1
 
 # Model configuration
 model: access-om2
