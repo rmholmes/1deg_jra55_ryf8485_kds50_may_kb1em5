@@ -1,14 +1,14 @@
 # PBS configuration
-queue: expressbw
+queue: normalbw
 project: e14
-walltime: 03:00:00
+walltime: 20:00:00
 jobname: ryf8_kds50
 ncpus: 252
 mem: 500GB
 
 shortpath: /short/e14
 
-runspersub: 1
+runspersub: 5
 restart_freq: 1
 
 # Model configuration

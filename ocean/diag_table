@@ -76,10 +76,10 @@ MOM5 JRA-RYF
 "ocean_model","temp_rivermix_on_nrho","temp_rivermix_on_nrho","ocean_wmass","all",.true.,"none",2
 
 # Components of diffusion:
-"ocean_model","temp_vdiffuse_diff_cbt_kppiw_on_nrho","temp_vdiffuse_diff_cbt_kppiw_on_nrho", "ocean_wmass","all",.true.,"none",2
+# "ocean_model","temp_vdiffuse_diff_cbt_kppiw_on_nrho","temp_vdiffuse_diff_cbt_kppiw_on_nrho", "ocean_wmass","all",.true.,"none",2
 # "ocean_model","temp_vdiffuse_diff_cbt_kppish_on_nrho","temp_vdiffuse_diff_cbt_kppish_on_nrho", "ocean_wmass","all",.true.,"none",2
 # "ocean_model","temp_vdiffuse_diff_cbt_kppicon_on_nrho","temp_vdiffuse_diff_cbt_kppicon_on_nrho", "ocean_wmass","all",.true.,"none",2
-"ocean_model","temp_vdiffuse_diff_cbt_kppbl_on_nrho","temp_vdiffuse_diff_cbt_kppbl_on_nrho", "ocean_wmass","all",.true.,"none",2
+# "ocean_model","temp_vdiffuse_diff_cbt_kppbl_on_nrho","temp_vdiffuse_diff_cbt_kppbl_on_nrho", "ocean_wmass","all",.true.,"none",2
 # "ocean_model","temp_vdiffuse_diff_cbt_kppdd_on_nrho","temp_vdiffuse_diff_cbt_kppdd_on_nrho", "ocean_wmass","all",.true.,"none",2
 # "ocean_model","temp_vdiffuse_diff_cbt_wave_on_nrho","temp_vdiffuse_diff_cbt_wave_on_nrho", "ocean_wmass","all",.true.,"none",2
 
