@@ -493,7 +493,7 @@
 &ocean_vert_kpp_mom4p0_nml
 /
 &ocean_vert_kpp_mom4p1_nml
-    diff_cbt_iw = 0.0
+    diff_cbt_iw = 1e-05
     double_diffusion = .true.
     kbl_standard_method = .false.
     ricr = 0.3
